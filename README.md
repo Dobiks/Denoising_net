@@ -4,4 +4,5 @@ U-net
 ![alt text](https://i.ibb.co/SXB8w7L/2.png)
 
 Autoencoder
-![alt text](https://i.ibb.co/GvvQWM0/1.png)
+
+![alt text](https://i.ibb.co/gMMZSW3/1.png)
